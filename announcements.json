@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updated": "2026-10-12",
+  "updated": "2026-11-01",
   "announcements": [
+    {
+      "id": "2026-11-v3-released",
+      "date": "2026-11-01",
+      "kind": "release",
+      "title": "Compressarr v3.0.0 has been released",
+      "text": "You can download it here.",
+      "link": "https://github.com/Compressarr/Compressarr/releases#release-v3.0.0",
+      "important": false,
+      "minAppVersion": null,
+      "maxAppVersion": "3.0.0-rc.3",
+      "expires": null
+    },
     {
       "id": "2026-10-welcome",
       "date": "2026-10-12",
